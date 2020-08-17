@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gallery.xieqiaokang.com</id>
     <title>谢乔康的相册</title>
-    <updated>2020-08-17T03:20:30.925Z</updated>
+    <updated>2020-08-17T03:32:56.180Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://gallery.xieqiaokang.com"/>
     <link rel="self" href="https://gallery.xieqiaokang.com/atom.xml"/>
@@ -12,11 +12,11 @@
     <rights>All rights reserved 2020, 谢乔康的相册</rights>
     <entry>
         <title type="html"><![CDATA[MCC]]></title>
-        <id>https://gallery.xieqiaokang.com/post/hello-gridea/</id>
-        <link href="https://gallery.xieqiaokang.com/post/hello-gridea/">
+        <id>https://gallery.xieqiaokang.com/post/MCC/</id>
+        <link href="https://gallery.xieqiaokang.com/post/MCC/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p><photos><img src="https://gallery.xieqiaokang.com/post-images/1597634397707.jpg" alt="" loading="lazy"></photos></p>
+        <content type="html"><![CDATA[<p><photos><img src="https://cdn.jsdelivr.net/gh/xieqk/gallery/1597634582838.jpg" alt="" loading="lazy"><img src="https://cdn.jsdelivr.net/gh/xieqk/gallery/1597634684592.jpg" alt="" loading="lazy"><img src="https://cdn.jsdelivr.net/gh/xieqk/gallery/1597634397707.jpg" alt="" loading="lazy"><img src="https://cdn.jsdelivr.net/gh/xieqk/gallery/1597634382606.jpg" alt="" loading="lazy"></photos></p>
 ]]></content>
     </entry>
 </feed>
