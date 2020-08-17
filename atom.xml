@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gallery.xieqiaokang.com</id>
     <title>谢乔康的相册</title>
-    <updated>2020-08-17T03:48:05.254Z</updated>
+    <updated>2020-08-17T03:55:39.165Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://gallery.xieqiaokang.com"/>
     <link rel="self" href="https://gallery.xieqiaokang.com/atom.xml"/>
@@ -16,11 +16,8 @@
         <link href="https://gallery.xieqiaokang.com/post/MCC/">
         </link>
         <updated>2020-08-17T03:35:05.000Z</updated>
-        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://gallery.xieqiaokang.com/post-images/1597634684592.jpg" alt="" loading="lazy"></figure>
-<figure data-type="image" tabindex="2"><img src="https://gallery.xieqiaokang.com/post-images/1597634582838.jpg" alt="" loading="lazy"></figure>
-<figure data-type="image" tabindex="3"><img src="https://gallery.xieqiaokang.com/post-images/1597634397707.jpg" alt="" loading="lazy"></figure>
-<figure data-type="image" tabindex="4"><img src="https://gallery.xieqiaokang.com/post-images/1597634397707.jpg" alt="" loading="lazy"></figure>
-<p><photos><img src="https://gallery.xieqiaokang.com/post-images/1597634397707.jpg" alt="" loading="lazy"></photos></p>
+        <content type="html"><![CDATA[<p><photos><img src="https://cdn.jsdelivr.net/gh/xieqk/gallery-cdn/mcc/20200817110745.jpg" alt="" loading="lazy"></photos></p>
+<p><photos><img src="https://cdn.jsdelivr.net/gh/xieqk/gallery-cdn/mcc/20200817110745.jpg" alt="" loading="lazy"><img src="https://cdn.jsdelivr.net/gh/xieqk/gallery-cdn/mcc/20200817110759.jpg" alt="" loading="lazy"><img src="https://cdn.jsdelivr.net/gh/xieqk/gallery-cdn/mcc/180923-DSC05611.jpg" alt="" loading="lazy"><img src="https://cdn.jsdelivr.net/gh/xieqk/gallery-cdn/mcc/3I7A0388.jpg" alt="" loading="lazy"><img src="https://cdn.jsdelivr.net/gh/xieqk/gallery-cdn/mcc/3I7A0386.jpg" alt="" loading="lazy"><img src="https://cdn.jsdelivr.net/gh/xieqk/gallery-cdn/mcc/3I7A0241.jpg" alt="" loading="lazy"></photos></p>
 ]]></content>
     </entry>
 </feed>
